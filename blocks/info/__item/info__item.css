@@ -1,0 +1,10 @@
+.info__item {
+  list-style-type: none;
+  padding-top: 12px;
+  display: flex;
+  text-align: center;
+}
+
+.info__item:first-child {
+  padding-top: 0;
+}

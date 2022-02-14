@@ -39,6 +39,7 @@
 @import url(../blocks/params/__drop/params__drop.css);
 @import url(../blocks/params/__title/params__title.css);
 @import url(../blocks/params/__link/params__link.css);
+@import url(../blocks/params/__border/params__border.css);
 @import url(../blocks/params/params.css);
 @import url(../blocks/bag/__button/bag__button.css);
 @import url(../blocks/bag/__counter/bag__counter.css);
@@ -49,3 +50,9 @@
 @import url(../blocks/bag/__plus/bag__plus.css);
 @import url(../blocks/bag/__minus/bag__minus.css);
 @import url(../blocks/bag/bag.css);
+@import url(../blocks/info/__item/info__item.css);
+@import url(../blocks/info/__link/info__link.css);
+@import url(../blocks/info/__pic/info__pic.css);
+@import url(../blocks/info/info.css);
+@import url(../blocks/more/__link/more__link.css);
+@import url(../blocks/more/more.css);
