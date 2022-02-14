@@ -1,0 +1,8 @@
+.bag__counter {
+  display: flex;
+  flex-direction: row;
+  background-color: #F2F2F2;
+  width: 125px;
+  padding-left: 20px;
+  
+}

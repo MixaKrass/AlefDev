@@ -1,0 +1,6 @@
+.pajamas__container {
+  display: flex;
+  max-width: 1390px;
+  margin-left: auto;
+  margin-right: auto;
+}

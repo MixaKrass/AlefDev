@@ -1,0 +1,6 @@
+.reviews__stars {
+  display: flex;
+  margin: 0;
+  padding-left: 12px;
+  padding-right: 4px;
+}

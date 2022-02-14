@@ -1,0 +1,20 @@
+.reviews__count {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  text-decoration: none;
+  color: black;
+  position: relative;
+}
+
+.reviews__count::after {
+  position: absolute;
+  top: 0;
+  padding-right: 8px;
+  width: 14px;
+  height: 100%;
+  content: '';
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../../../images/pajamas/Strelka.svg);
+}

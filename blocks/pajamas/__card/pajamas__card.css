@@ -1,0 +1,11 @@
+.pajamas__card {
+  width: 70px;
+  height: 91px;
+  list-style-type: none;
+  margin-bottom: 7px;
+  cursor: pointer;
+}
+
+.pajamas__card:last-child {
+  margin-bottom: 0px;
+}

@@ -1,0 +1,13 @@
+.price__big {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  border: 1px solid #333;
+  align-items: center;
+  padding: 4px 8px;
+  margin: 0;
+}
+
+.price__big:last-child {
+  margin-left: 9px;
+}

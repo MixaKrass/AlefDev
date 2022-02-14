@@ -1,0 +1,9 @@
+.bag__favorite {
+  background-image: url(../../../images/pajamas/heart.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+  margin-left: 4px;
+  width: 44px;
+  cursor: pointer;
+}

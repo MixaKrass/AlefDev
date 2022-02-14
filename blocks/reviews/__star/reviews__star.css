@@ -1,0 +1,10 @@
+.reviews__star {
+  list-style-type: none;
+  width: 12px;
+  height: 12px;
+  background-image: url(../../../images/pajamas/Black_Star.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}

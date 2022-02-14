@@ -1,0 +1,10 @@
+.pajamas__left {
+  width: 686px;
+  height: 878px;
+  background-image: url(../../../images/pajamas/pajamas-0.svg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin: 0;
+  padding-left: 24px;
+  padding-top: 24px;
+}

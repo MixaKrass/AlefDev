@@ -1,0 +1,14 @@
+.header__btn {
+  list-style-type: none;
+  width: 24px;
+  height: 24px;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  margin-left: 24px;
+
+}
+
+.header__btn:first-child {
+  margin-left: 0;
+}
