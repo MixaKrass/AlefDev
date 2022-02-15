@@ -1,0 +1,12 @@
+.form__clear {
+  position: absolute;
+  background-image: url(../../../images/form/form-close.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  padding-top: 12px;
+}

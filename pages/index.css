@@ -72,3 +72,15 @@
 @import url(../blocks/gallery/__favorite/gallery__favorite.css);
 @import url(../blocks/gallery/__heart/gallery__heart.css);
 @import url(../blocks/gallery/gallery.css);
+@import url(../blocks/footer/__list-item/footer__list-item.css);
+@import url(../blocks/footer/__list-link/footer__list-link.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/form/__button/form__button.css);
+@import url(../blocks/form/__clear/form__clear.css);
+@import url(../blocks/form/__container/form__container.css);
+@import url(../blocks/form/__errmess/form__errmess.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__title/form__title.css);
+@import url(../blocks/form/form.css);
+@import url(../blocks/footer/__list-title/footer__list-title.css);
+@import url(../blocks/footer/footer.css);
