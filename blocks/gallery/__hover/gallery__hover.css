@@ -1,0 +1,12 @@
+.gallery__hover {
+  background-color: rgba(51, 51, 51, 0.7);
+  opacity: 0;
+  display: flex;
+  color: white;
+  position: relative;
+  height: 100%;
+}
+
+.gallery__hover:hover {
+  opacity: 1;
+}

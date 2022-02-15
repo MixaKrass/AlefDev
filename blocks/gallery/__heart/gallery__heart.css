@@ -1,0 +1,8 @@
+.gallery__heart {
+  background-image: url(../../../images/gallery/favorite_heart.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 24px;
+  height: 24px;
+  margin-right: 6px;
+}

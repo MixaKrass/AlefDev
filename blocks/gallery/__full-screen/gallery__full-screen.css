@@ -1,0 +1,9 @@
+.gallery__full-screen {
+  position: absolute;
+  background-image: url(../../../images/gallery/full-screen.svg);
+  background-repeat: no-repeat;
+  width: 24px;
+  height: 24px;
+  top: 12px;
+  right: 12px;
+}
