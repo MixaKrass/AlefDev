@@ -3,3 +3,16 @@
   width: 686px;
   height: 688px;
 }
+
+@media screen and (max-width: 1280px) {
+  .gallery__photo_1 {
+    width: 49%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .gallery__photo_1 {
+    width: 375px;
+    height: 375px;
+  }
+}

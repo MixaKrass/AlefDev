@@ -84,3 +84,6 @@
 @import url(../blocks/form/form.css);
 @import url(../blocks/footer/__list-title/footer__list-title.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/bag/__row/bag__row.css);
+@import url(../blocks/params/__link/_padding/params__link_padding.css);
+@import url(../blocks/footer/__row/footer__row.css);

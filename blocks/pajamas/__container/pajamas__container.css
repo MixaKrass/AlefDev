@@ -1,3 +1,9 @@
 .pajamas__container {
   display: flex;
 }
+
+@media screen and (max-width: 767px) {
+  .pajamas__container {
+    display: block;
+  }
+}

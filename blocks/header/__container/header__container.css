@@ -6,3 +6,19 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+@media screen and (max-width: 768px) {
+  .header__container {
+    width: calc(100% - 40px);
+    padding: 0 20px;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .header__container {
+    width: calc(100% - 30px);
+    padding: 0 15px;
+  }
+  }
+  
+ 

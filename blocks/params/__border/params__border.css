@@ -3,3 +3,11 @@
   margin-top: 29px;
   margin-bottom: 24px;
 }
+
+@media screen and (max-width: 767px) {
+  .params__border {
+    width: calc(100% - 10px);
+  }
+  }
+  
+ 

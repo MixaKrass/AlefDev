@@ -5,5 +5,12 @@
   background-color: black;
   margin-left: 4px;
   width: 44px;
+  height: 44px;
   cursor: pointer;
+}
+
+@media screen and (max-width: 767px) {
+  .bag__favorite {
+    margin-top: 15px;
+  }
 }

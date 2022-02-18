@@ -4,3 +4,15 @@
   margin: 0;
   padding-bottom: 70px;
 }
+
+@media screen and (max-width: 767px) {
+  .footer__list {
+    width: 163px;
+    padding-left: 20px;
+    padding-bottom: 58px;
+  }
+
+  .footer__list:last-child {
+    padding-left: 0;
+  }
+}

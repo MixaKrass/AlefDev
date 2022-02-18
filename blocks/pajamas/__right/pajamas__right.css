@@ -3,3 +3,11 @@
   padding-left: 36px;
   padding-top: 22px;
 }
+
+@media screen and (max-width: 767px) {
+  .pajamas__right{
+    width: calc(100% - 20px);
+    padding-left: 20px;
+    padding-top: 24px;
+  }
+}

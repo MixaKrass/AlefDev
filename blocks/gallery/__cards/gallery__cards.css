@@ -4,3 +4,10 @@
   flex-wrap: wrap;
   width: 686px;
 }
+
+@media screen and (max-width: 768px) {
+  .gallery__cards {
+    width: 100%;
+    padding-top: 8px;
+  }
+}

@@ -1,0 +1,10 @@
+.bag__row {
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 767px) {
+  .bag__row {
+    margin-bottom: 9px;
+  }
+}

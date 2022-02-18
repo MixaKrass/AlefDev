@@ -4,8 +4,16 @@
   list-style-type: none;
   margin-bottom: 7px;
   cursor: pointer;
+  background-size: cover;
 }
 
 .pajamas__card:last-child {
   margin-bottom: 0px;
+}
+
+@media screen and (max-width: 768px) {
+  .pajamas__card {
+    width: 40px;
+    height: 52px;
+  }
 }
