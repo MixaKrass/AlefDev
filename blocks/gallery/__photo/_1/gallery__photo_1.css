@@ -6,7 +6,9 @@
 
 @media screen and (max-width: 1280px) {
   .gallery__photo_1 {
-    width: 49%;
+    width: 250px;
+    height: 376px;
+    background-position: center;
   }
 }
 
